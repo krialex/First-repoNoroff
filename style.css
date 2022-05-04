@@ -3,7 +3,13 @@ body {
 }
 h1 {
     color: coral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 300%;
+    text-align: center;
  }
  p {
      color: coral;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 160%;
+     text-align: center;
  }
